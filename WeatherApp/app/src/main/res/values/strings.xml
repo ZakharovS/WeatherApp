@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- TITLE APP-->
+    <string name="app_name">Weather App</string>
+
+    <!-- ALERT DIALOG -->
+    <string name="positive_button">Ok</string>
+</resources>
